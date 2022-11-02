@@ -1,1 +1,3 @@
-# [Trabajo Practico RFID.pdf](https://github.com/ISPC-TST-Sensores-y-Actuadores/practica-de-la-8va-semana-grupo-4/files/9894190/Trabajo.Practico.RFID.pdf)
+
+![README](https://user-images.githubusercontent.com/104568843/199399239-4a79fb31-b0ab-47be-8a44-bb125f4edde7.jpg)
+
