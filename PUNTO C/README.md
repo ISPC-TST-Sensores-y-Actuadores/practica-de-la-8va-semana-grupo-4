@@ -1,6 +1,6 @@
 # [Trabajo Practico RFID.pdf](https://github.com/ISPC-TST-Sensores-y-Actuadores/practica-de-la-8va-semana-grupo-4/files/9894190/Trabajo.Practico.RFID.pdf)
 
-                         PUNTO C - DOCUMENTACION DE APOYO -
+                            PUNTO C - DOCUMENTACION DE APOYO -
 
 
 ![image](https://user-images.githubusercontent.com/106460135/199878545-8aaf33e2-d28b-4b02-9f46-a1a8c398a450.png)
